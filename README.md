@@ -1,1 +1,1 @@
-# CMSC-202-Projects
+# CMSC-341-Projects
