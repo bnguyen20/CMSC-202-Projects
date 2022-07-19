@@ -1,1 +1,1 @@
-Run "make" and then "./driver" on the command line.
+Run "make" and then "./mytest" on the command line.
